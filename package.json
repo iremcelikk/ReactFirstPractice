@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10"
+  },
+  "name": "reactfirstpractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
